@@ -14,7 +14,7 @@ struct Palabra {
 
 vector<Palabra> cargarDiccionario(const string& nombreArchivo) {
     vector<Palabra> diccionario;
-    ifstream archivo(nombreArchivo);
+    ifstream archivo(diccionario.txt);
     string linea;
     while (getline(archivo, linea)) {
         stringstream ss(linea);

@@ -1,0 +1,244 @@
+Palabra: Asm
+Traducción: ensamblar
+Funcionalidad: Permite insertar c�digo ensamblador dentro del programa en C++.
+---
+Palabra: Auto
+Traducción: automático
+Funcionalidad: Permite que el compilador deduzca automáticamente el tipo de una variable.
+---
+Palabra: Bool
+Traducción: booleano
+Funcionalidad: Tipo de dato que puede almacenar verdadero (true) o falso (false).
+---
+Palabra: Break
+Traducción: romper
+Funcionalidad: Termina la ejecución de un bucle o switch.
+---
+Palabra: Case
+Traducción: caso
+Funcionalidad: Define una condición específica dentro de una estructura switch.
+---
+Palabra: Catch
+Traducción: capturar
+Funcionalidad: Captura excepciones lanzadas en un bloque try.
+---
+Palabra: Char
+Traducción: carácter
+Funcionalidad: Tipo de dato que almacena un solo carácter.
+---
+Palabra: Class
+Traducción: clase
+Funcionalidad: Define una nueva clase en programación orientada a objetos.
+---
+Palabra: Const
+Traducción: constante
+Funcionalidad: Define que una variable o función no puede cambiar su valor.
+---
+Palabra: Const_cast
+Traducción: conversión constante
+Funcionalidad: Permite modificar el tipo de constancia de un objeto.
+---
+Palabra: Continue
+Traducción: continuar
+Funcionalidad: Salta a la siguiente iteración del bucle, omitiendo el resto del código actual.
+---
+Palabra: Default
+Traducción: predeterminado
+Funcionalidad: Define el caso por defecto en una estructura switch.
+---
+Palabra: Delete
+Traducción: eliminar
+Funcionalidad: Libera memoria dinámica asignada previamente con new.
+---
+Palabra: Do
+Traducción: hacer
+Funcionalidad: Ejecuta un bucle al menos una vez antes de comprobar la condición.
+---
+Palabra: Double
+Traducción: doble
+Funcionalidad: Tipo de dato que almacena números de punto flotante de doble precisión.
+---
+Palabra: Dynamic_cast
+Traducción: conversión dinámica
+Funcionalidad: Realiza conversiones seguras en jerarquías de clases.
+---
+Palabra: Else
+Traducción: sino
+Funcionalidad: Define una alternativa en estructuras de control de flujo.
+---
+Palabra: Enum
+Traducción: enumeración
+Funcionalidad: Define un tipo de dato que contiene un conjunto de constantes.
+---
+Palabra: Explicit
+Traducción: explícito
+Funcionalidad: Evita conversiones implícitas en constructores de clases.
+---
+Palabra: Extern
+Traducción: externo
+Funcionalidad: Indica que una variable o función se define en otro archivo.
+---
+Palabra: False
+Traducción: falso
+Funcionalidad: Valor lógico falso en operaciones booleanas.
+---
+Palabra: Float
+Traducción: flotante
+Funcionalidad: Tipo de dato que almacena números reales de precisión simple.
+---
+Palabra: For
+Traducción: para
+Funcionalidad: Ejecuta un bloque de código un número determinado de veces.
+---
+Palabra: Friend
+Traducción: amigo
+Funcionalidad: Permite que una función o clase acceda a miembros privados de otra clase.
+---
+Palabra: Goto
+Traducción: ir a
+Funcionalidad: Salta a una etiqueta específica en el código.
+---
+Palabra: If
+Traducción: si
+Funcionalidad: Estructura de control que ejecuta código si se cumple una condición.
+---
+Palabra: Inline
+Traducción: en línea
+Funcionalidad: Sugerencia al compilador para insertar el cuerpo de una función directamente.
+---
+Palabra: Int
+Traducción: entero
+Funcionalidad: Tipo de dato que almacena números enteros.
+---
+Palabra: Long
+Traducción: largo
+Funcionalidad: Tipo de dato que almacena enteros de mayor rango que int.
+---
+Palabra: Mutable
+Traducción: mutable
+Funcionalidad: Permite modificar una variable miembro incluso si es constante.
+---
+Palabra: Namespace
+Traducción: espacio de nombres
+Funcionalidad: Agrupa identificadores bajo un nombre común para evitar conflictos.
+---
+Palabra: New
+Traducción: nuevo
+Funcionalidad: Reserva memoria dinámica para un objeto o variable.
+---
+Palabra: Operator
+Traducción: operador
+Funcionalidad: Permite redefinir el comportamiento de operadores para tipos definidos por el usuario.
+---
+Palabra: Private
+Traducción: privado
+Funcionalidad: Restringe el acceso a miembros de una clase solo a la propia clase.
+---
+Palabra: Protected
+Traducción: protegido
+Funcionalidad: Permite acceso a miembros desde la propia clase y clases derivadas.
+---
+Palabra: Public
+Traducción: público
+Funcionalidad: Permite acceso libre a miembros de una clase desde cualquier parte.
+---
+Palabra: Register
+Traducción: registro
+Funcionalidad: Sugiere al compilador almacenar una variable en un registro para acceso rápido.
+---
+Palabra: Reinterpret_cast
+Traducción: reinterpretar conversión
+Funcionalidad: Permite reinterpretar bits de un tipo de datos como otro tipo.
+---
+Palabra: Return
+Traducción: retornar
+Funcionalidad: Finaliza una función y devuelve un valor.
+---
+Palabra: Short
+Traducción: corto
+Funcionalidad: Tipo de dato entero más pequeño que int.
+---
+Palabra: Signed
+Traducción: con signo
+Funcionalidad: Permite números positivos y negativos en tipos enteros.
+---
+Palabra: Sizeof
+Traducción: tamaño de
+Funcionalidad: Devuelve el tamaño en bytes de una variable o tipo.
+---
+Palabra: Static
+Traducción: estático
+Funcionalidad: Mantiene el valor de una variable entre llamadas a funciones o limita su ámbito a un archivo.
+---
+Palabra: Static_cast
+Traducción: conversión estática
+Funcionalidad: Realiza conversiones explícitas entre tipos de datos relacionados.
+---
+Palabra: Struct
+Traducción: estructura
+Funcionalidad: Agrupa varios datos bajo un solo tipo definido por el usuario.
+---
+Palabra: Switch
+Traducción: cambiar
+Funcionalidad: Selecciona la ejecución entre múltiples alternativas basadas en una expresión.
+---
+Palabra: Template
+Traducción: plantilla
+Funcionalidad: Permite definir funciones o clases genéricas.
+---
+Palabra: This
+Traducción: este
+Funcionalidad: Puntero que representa al objeto actual de una clase.
+---
+Palabra: Throw
+Traducción: lanzar
+Funcionalidad: Lanza una excepción que puede ser capturada por catch.
+---
+Palabra: True
+Traducción: verdadero
+Funcionalidad: Valor lógico verdadero en operaciones booleanas.
+---
+Palabra: Try
+Traducción: intentar
+Funcionalidad: Inicia un bloque de código que puede generar excepciones.
+---
+Palabra: Typedef
+Traducción: definición de tipo
+Funcionalidad: Define un nombre alternativo para un tipo existente.
+---
+Palabra: Typeid
+Traducción: tipo id
+Funcionalidad: Obtiene información sobre el tipo de un objeto en tiempo de ejecución.
+---
+Palabra: Typename
+Traducción: nombre de tipo
+Funcionalidad: Indica que un identificador es un tipo, especialmente en plantillas.
+---
+Palabra: Union
+Traducción: unión
+Funcionalidad: Define un tipo de dato donde todos los miembros comparten la misma ubicación en memoria.
+---
+Palabra: Unsigned
+Traducción: sin signo
+Funcionalidad: Permite solo números positivos en tipos enteros.
+---
+Palabra: Using
+Traducción: usando
+Funcionalidad: Permite traer nombres de un espacio de nombres o definir alias de tipos.
+---
+Palabra: Virtual
+Traducción: virtual
+Funcionalidad: Permite redefinir métodos en clases derivadas usando polimorfismo.
+---
+Palabra: Void
+Traducción: vacío
+Funcionalidad: Especifica que una función no devuelve ningún valor.
+---
+Palabra: Volatile
+Traducción: volátil
+Funcionalidad: Indica que una variable puede cambiar en cualquier momento fuera del control del programa.
+---
+Palabra: While
+Traducción: mientras
+Funcionalidad: Ejecuta un bucle mientras se cumpla una condición.
+---
